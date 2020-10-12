@@ -1,2 +1,2 @@
 # springcloud-config
-# for study
+for study
